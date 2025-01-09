@@ -6,7 +6,7 @@
 - 👨‍💻 I’m currently looking for the job oppourtunity **DevOps Engineer and Cloud Engineer**
 - 🌱 Certified Microsoft **Azure DevSecOps** and Familiar with top **AWS Services in DevOps**
 <h3 align="left">Connect with me:</h3>
-- Email ID <b>kiruthikashri03@gmail.com</b>
+- Email ID <b>kiruthikashri03@gmail.com</b></br>
 - [LinkedIn](www.linkedin.com/in/kiruthikashri)
 - ⚡ Fun fact **DevOps Engineer i'm here because you broke something**
 
