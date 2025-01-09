@@ -10,3 +10,6 @@
 - [LinkedIn](www.linkedin.com/in/kiruthikashri)</br>
 - ⚡ Fun fact <b>DevOps Engineer i'm here because you broke something</b>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"><a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="azure" width="40" height="40"/> </a>
