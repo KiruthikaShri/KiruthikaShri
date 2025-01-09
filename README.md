@@ -15,4 +15,5 @@
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="azure" width="40" height="40"/> </a>
-<a href="https://github.com/KiruthikaShri/KiruthikaShri/" target="_blank" rel="noreferrer"><img src="https://www.flaticon.com/free-icon/github-logo_25231" alt="azure" width="40" height="40"/> </a>				  
+<a href="https://github.com/KiruthikaShri/KiruthikaShri/" target="_blank" rel="noreferrer"><img src="https://icon-icons.com/icon/github-logo/229278" alt="azure" width="40" height="40"/> </a>				  
+				  
